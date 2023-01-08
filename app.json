@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Street",
+    "slug": "Street",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Street"
+}
